@@ -24,3 +24,5 @@ Readme Documentation on your project
 | 5 | Style Contd. |
 
 ### Link to Project
+
+(https://coreyhall15.github.io/GAMETRIVIA/)
